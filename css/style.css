@@ -1356,6 +1356,12 @@ ul.social-intro li a {
 .bl-main>section:nth-child(4).bl-expand ul.social-intro li.facebook a {
   background: #3b5998;
 }
+.bl-main>section:nth-child(4).bl-expand ul.social-intro li.github a {
+  background: #24292e;
+}
+#bl-work-items > li.github a {
+  background: #24292e;
+}
 
 .bl-main>section:nth-child(4).bl-expand ul.social-intro li.twitter a {
   background: #1da1f2;
