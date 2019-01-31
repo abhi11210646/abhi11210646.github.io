@@ -17,10 +17,6 @@
 			$(item[i]).hoverdir();
 		}
 		
-		// TEXT ROTATOR
-		$("#selector").animatedHeadline({
-             animationType: "clip"
-        });
 		
 		// BOX LAYOUT
         Boxlayout.init();
